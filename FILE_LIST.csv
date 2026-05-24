@@ -1,0 +1,21 @@
+filename,category,format,sample_rate,channels,description
+CMASFX_001_punch_short_snap.wav,punches,WAV,44100,mono,Short snapping punch impact
+CMASFX_002_punch_heavy_body.wav,punches,WAV,44100,mono,Heavy body punch
+CMASFX_003_punch_fast_double.wav,punches,WAV,44100,mono,Fast double punch
+CMASFX_004_punch_cinematic_hit.wav,punches,WAV,44100,mono,Cinematic punch hit
+CMASFX_005_kick_low_thud.wav,kicks,WAV,44100,mono,Low kick thud
+CMASFX_006_kick_snap.wav,kicks,WAV,44100,mono,Snappy kick impact
+CMASFX_007_kick_air_then_hit.wav,kicks,WAV,44100,mono,Kick whoosh into hit
+CMASFX_008_kick_heavy_roundhouse.wav,kicks,WAV,44100,mono,Heavy roundhouse kick
+CMASFX_009_cloth_robe_sweep_short.wav,cloth,WAV,44100,mono,Short robe sweep
+CMASFX_010_cloth_sleeve_whip.wav,cloth,WAV,44100,mono,Sleeve whip movement
+CMASFX_011_cloth_fast_turn.wav,cloth,WAV,44100,mono,Fast body turn cloth movement
+CMASFX_012_cloth_low_step.wav,cloth,WAV,44100,mono,Low step fabric movement
+CMASFX_013_staff_whoosh_short.wav,staff_whooshes,WAV,44100,mono,Short staff whoosh
+CMASFX_014_staff_whoosh_long.wav,staff_whooshes,WAV,44100,mono,Long staff swing
+CMASFX_015_staff_spin.wav,staff_whooshes,WAV,44100,mono,Two-part staff spin
+CMASFX_016_staff_cinematic_sweep.wav,staff_whooshes,WAV,44100,mono,Cinematic staff sweep
+CMASFX_017_body_impact_soft.wav,body_impacts,WAV,44100,mono,Soft body impact
+CMASFX_018_body_impact_ground.wav,body_impacts,WAV,44100,mono,Grounded body impact
+CMASFX_019_training_shout_ha.wav,training_shouts,WAV,44100,mono,Synthetic training shout: ha
+CMASFX_020_training_shout_two_part.wav,training_shouts,WAV,44100,mono,Synthetic two-part training shout
